@@ -1,0 +1,29 @@
+h2 {
+    color: blue;
+    font-size: 2em;
+}
+
+body{
+    background-color: rgb(107, 186, 242);
+    font-size: 20px;
+}
+
+p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+#descricao {
+    background-color: rgb(192, 190, 227);
+}
+
+#meunome{
+    color: rgb(5, 4, 4);
+}
+
+.listaHabilit{
+    color: aliceblue;
+    font-weight: bolder;
+    font-style: italic;
+    line-height: 30px;
+}
