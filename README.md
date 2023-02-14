@@ -1,2 +1,2 @@
-# portifolio-css
-Portfólio CSS
+# 01-exercicio
+Exercício da aula 01
